@@ -17,6 +17,6 @@ Link del UML: https://github.com/CruzM-224/PrimeraFaseProyecto/blob/main/UML.PNG
 
 Link de la idea de las tablas a usar: https://github.com/CruzM-224/PrimeraFaseProyecto/blob/main/Inventariado%20de%20una%20ferretería.txt
 
-Link de los Mock Ups: https://github.com/CruzM-224/PrimeraFaseProyecto/blob/main/MockUps.rar
+Link de los Mock Ups: https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/MockUps.rar
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
