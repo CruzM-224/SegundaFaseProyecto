@@ -9,18 +9,18 @@ Enzo Enrique Saravia Diaz SD210974
 
 Cruz Enrique Moreno Lozano ML210800
 
-Link de Trello: https://trello.com/b/FFU6tVv6/proyecto-poo
+* [Link de Trello] https://trello.com/b/FFU6tVv6/proyecto-poo
 
-Link de los Mock Ups: https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/MockUps.rar
+* [Link de los Mock Ups] https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/MockUps.rar
 
-Link de la base de datos que hemos usado hasta el momento: https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/Consultas.sql
+* [Link de la base de datos que hemos usado hasta el momento] https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/Consultas.sql
 
-Link del programa del proyecto: https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/ProyectoPoo.rar
+* [Link del programa del proyecto] https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/ProyectoPoo.rar
 
-Link del video del funcionamiento de la aplicación: https://www.youtube.com/watch?v=qt0TVb8Jvcg
+* [Link del video del funcionamiento de la aplicación] https://www.youtube.com/watch?v=qt0TVb8Jvcg
 
-Link del manual de usuario: https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/Manual%20de%20Usuario.pdf
+* [Link del manual de usuario] https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/Manual%20de%20Usuario.pdf
 
-Link del manual tecnico: https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/Manual%20tecnico%201.0.pdf
+* [Link del manual tecnico] https://github.com/CruzM-224/SegundaFaseProyecto/blob/main/Manual%20tecnico%201.0.pdf
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
