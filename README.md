@@ -3,6 +3,10 @@ Repositorio de la segunda fase del proyecto de un inventario de una ferretería 
 
 POO Grupo teórico 05
 
+## Herramientas 🛠️
+* Visual Stutio https://visualstudio.microsoft.com/es/
+* SQL Server Management Studio https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
 ## Integrantes del proyecto
 
 * Enzo Enrique Saravia Diaz SD210974
