@@ -5,9 +5,9 @@ POO Grupo teórico 05
 
 ## Integrantes del proyecto
 
-Enzo Enrique Saravia Diaz SD210974
+* Enzo Enrique Saravia Diaz SD210974
 
-Cruz Enrique Moreno Lozano ML210800
+* Cruz Enrique Moreno Lozano ML210800
 
 ## Links
 
