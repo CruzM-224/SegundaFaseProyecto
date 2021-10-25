@@ -3,11 +3,13 @@ Repositorio de la segunda fase del proyecto de un inventario de una ferretería 
 
 POO Grupo teórico 05
 
-Integrantes del proyecto:
+## Integrantes del proyecto
 
 Enzo Enrique Saravia Diaz SD210974
 
 Cruz Enrique Moreno Lozano ML210800
+
+## Links
 
 * [Link de Trello] https://trello.com/b/FFU6tVv6/proyecto-poo
 
